@@ -1,3 +1,2 @@
 This is demo git
 this is first commit to revert
-this is second commit to revert
